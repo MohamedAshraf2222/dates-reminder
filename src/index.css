@@ -1,0 +1,29 @@
+/* ======= base style ====== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Almarai', sans-serif;
+}
+.font{
+  font-family: 'Almarai', sans-serif;
+  font-size: 20px;
+}
+.img-avatar {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+}
+.rectangle{
+  height: 550px;
+  margin-bottom: 20px;
+  border-radius: 15px;
+  background-color: #fff;
+  box-shadow: 1px 4px 4px 1px rgba(85, 85, 85, 0.25) ;
+
+}
+.btn{
+  width: 200px;
+  background-color: blue !important;
+  color: white !important;
+}
